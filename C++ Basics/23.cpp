@@ -25,7 +25,11 @@ public:
     {
         cout << "The id of this employee is " << id << " and this is employee number " << count << endl;
     }
-};
+    static void getCount(void){
+        // cout<<id; // throws an error
+        cout<<"The value of count is "<<count<<endl;
+    }
+};      
 
 // Count is the static data member of class Employee
 int Employee::count; // Default value is 0
@@ -39,12 +43,15 @@ int main()
 
     roy.setData();
     roy.getData();
+    Employee::getCount();
 
     lavesh.setData();
     lavesh.getData();
+    Employee::getCount();
 
     rohan.setData();
     rohan.getData();
+    Employee::getCount();
 
     return 0;
 }
