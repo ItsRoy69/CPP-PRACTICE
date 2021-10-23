@@ -1,0 +1,1 @@
+If positive then loop continuous orelse loop exits
