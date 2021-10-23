@@ -1,4 +1,4 @@
-// If positive then loop continuous orelse if negative then loop exits
+// If positive then loop continuous orelse if negative then loop exits in While Loop
 
 #include<iostream>
 using namespace std;
