@@ -6,6 +6,8 @@ using namespace std;
 int main()
 {
     int n,i;
+
+    cout<<"Print value of n: ";
     cin>>n;
 
     for (i = 2; i < n; i++)
