@@ -13,6 +13,6 @@ PEPCODING - https://youtube.com/playlist?list=PL-Jc9J83PIiH2WP4AvSRJ09u8AjfsjxAo
 
 AFTER 6 MONTHS
 
-# Basics
+# Revisit
 
 CODEHELP - https://www.youtube.com/c/CodeHelpbyBabbar
