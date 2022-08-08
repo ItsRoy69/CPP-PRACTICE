@@ -1,6 +1,6 @@
 # CPP-PRACTICE
 
-
+This repo will contain all the cpp problems that I'll solve 👀 
 # Basics(1-26)
 
 HARRY - https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL
